@@ -1,1 +1,1 @@
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=yellow)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/ghkdtjsdks/)
