@@ -27,7 +27,7 @@ jobs:
           node-version: '20.x'
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
